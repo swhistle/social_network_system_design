@@ -1,4 +1,6 @@
-## System design
+## Travelling Social Network System Design
+
+System Design социальной сети для путешественников в рамках курса по System Design (https://balun.courses/courses/system_design)
 
 **Функциональные требования:**
 
